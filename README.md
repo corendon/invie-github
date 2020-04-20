@@ -1,2 +1,2 @@
 # invie-github
-curso platzi guitarras
+curso platzi guitarras inviesibel by platzi
